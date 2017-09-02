@@ -1,0 +1,39 @@
+.slider0 {
+  width: auto;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background: url("../rsc/wall/wall00.jpg"); }
+
+.slider1 {
+  width: auto;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background: url("../rsc/wall/wall01.jpg"); }
+
+.slider2 {
+  width: auto;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background: url("../rsc/wall/wall02.jpg"); }
+
+.slider3 {
+  width: auto;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background: url("../rsc/wall/wall03.jpg"); }
+
+.slider4 {
+  width: auto;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background: url("../rsc/wall/wall04.jpg"); }
+
+body {
+  position: relative; }
+
+/*# sourceMappingURL=estilos.css.map */
