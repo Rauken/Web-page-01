@@ -1,28 +1,29 @@
 @mixin fondo{
-    width: auto;
-    height: 100vh;
+    height: 110vh;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-position: center;
 }
 .slider0{
     @include fondo();
-    background: url("../rsc/wall/wall00.jpg");
+    background: url("../rsc/wall/wall00.jpg") no-repeat center center fixed;
     }
 .slider1{
     @include fondo();
-    background: url("../rsc/wall/wall01.jpg");
+    background: url("../rsc/wall/wall01.jpg") no-repeat center center fixed;
     }
 .slider2{
     @include fondo();
-    background: url("../rsc/wall/wall02.jpg");
+    background: url("../rsc/wall/wall02.jpg") no-repeat center center fixed;
     }
 .slider3{
     @include fondo();
-    background: url("../rsc/wall/wall03.jpg");
+    background: url("../rsc/wall/wall03.jpg") no-repeat center center fixed;
     }
 .slider4{
     @include fondo();
-    background: url("../rsc/wall/wall04.jpg");
+    background: url("../rsc/wall/wall04.jpg") no-repeat center center fixed;
     }
 body{
      position: relative;
